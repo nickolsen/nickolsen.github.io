@@ -1,2 +1,3 @@
 * Write now post.html inherits from default.html and both use the h1 tag for the header. This means in posts, there are two h1 tags. We can't have that.
-* The header "Nick Olsen" needs to be linked root, but shouldn't have the typical anchor styling. The text shoud just be #333 with no text-decorations.
+* The header "Nick Olsen" needs to be linked root, but shouldn't have the typical anchor styling. The text shoud just be #333 with no text-decorations.\
+* Write the about the page
