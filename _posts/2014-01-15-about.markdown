@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "About Me"
+date:   2014-01-15 17:21:00
+permalink: /about
+---
+
+My name is nick olsen

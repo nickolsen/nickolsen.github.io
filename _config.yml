@@ -1,3 +1,5 @@
-name: Your New Jekyll Site
+name: Nick Olsen
 markdown: redcarpet
 pygments: true
+permalink: /:year/:month/:title
+paginate: 10
